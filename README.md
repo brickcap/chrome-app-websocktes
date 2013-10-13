@@ -1,4 +1,5 @@
-chrome-app-websocktes
-=====================
+Basic chrome packaged app to demostracte the use of web sockets.
 
-A basic application to test the use of web sockets on chrome packaged apps
+#Licence
+
+MIT
